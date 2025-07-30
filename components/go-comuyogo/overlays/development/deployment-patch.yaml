@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-comuyogo:801d1b57a797a67ae5f1ac4ed1feac5fee850245@sha256:13335993293bd389c813e8a6bc54b611cd88249d5e59bea5a56113aea11aa3b8
+        - image: quay.io/rhtap_qe/go-comuyogo:d93178c31d5aea82fa1c1c780890125ececcebf3@sha256:d45c424d882a2feb29a604e8b1bf0085916d3b17f4cd9184870017f3f42b861d
           name: container-image
